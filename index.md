@@ -1,14 +1,14 @@
-## Portfolio
+## Updates
 
 ---
 
-### Category Name 1 
+### Latest Achievement 
 
-[Project 1 Title](/sample_page)
+[Presented in 25th IEEE ETFA International Conference, Vienna - Austria ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Accepted and Published a paper in Q1 International Journal - IEEE Communications Letters](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-### Category Name 2
+### Working Experience
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
