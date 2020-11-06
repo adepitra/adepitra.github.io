@@ -5,7 +5,7 @@
 ### Latest Achievement 
 
 [Presented in 25th IEEE ETFA International Conference, Vienna - Austria ](https://ieeexplore.ieee.org/document/9212123)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/etfa.png?raw=true"/>
 
 ---
 [Accepted and Published a paper in Q1 International Journal - IEEE Communications Letters](https://ieeexplore.ieee.org/document/8977561)
